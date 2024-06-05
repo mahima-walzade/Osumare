@@ -21,7 +21,16 @@
 #header img{
     margin-left: 20px;
 }
-
+#header.btn1{width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: white;
+margin-left: 150px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
 #text.h2{
     text-align: center;
 }
@@ -36,8 +45,6 @@
 .frame{
     display: block;
 }
-@media only screen and (max-width: 768px) {
-    #header.button{
-        margin-left: 150px;
-    }
+@media  screen and (min-width:768px) {
+
 }
