@@ -382,6 +382,40 @@
 .peace{
     text-align: center;
 }
+.btn4{
+    background-color: rgb(36, 171, 224);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    border: skyblue; 
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.video h1{
+    text-align: center;
+    font-size: 21px;
+}
+.video h6{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -10px;
+}
+.vd-1{
+    display: flex;
+}
+.vd-1 img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.vd-1 h6{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+video block p{
+    
+}
+
 
 
 @media screen and (min-width:768px) {
@@ -764,8 +798,32 @@
     font-size: 19px;
     margin-top: -10px;
 }
-
-
+.peace h2{
+    font-size: 30px;
+}
+.peace p{
+    font-size: 22px;
+}
+.video h1{
+     font-size: 33px;
+}
+.video h6{   
+    font-size: 19px;
+    margin-top: -10px;
+}
+.vd-1{
+    margin-left: 310px;
+    margin-top: -250px;
+}
+.vd-1 img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.vd-1 h6{
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 24px;
+}
     
      
 }
@@ -1171,6 +1229,20 @@
     font-size: 22px;
     margin-top: -10px;
     margin-left: 10px;
+}
+.peace h2{
+    font-size: 33px;
+}
+.peace p{
+    font-size: 25px;
+}
+.btn4{            
+    width: 250px;
+    height: 50px;    
+    margin-left: 30px;
+}
+.vd-1 h6{  
+    font-size: 28px;
 }
 
    
