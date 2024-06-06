@@ -279,7 +279,7 @@
     margin-top: -10px;
 }
 .v-img{
-    width: 300px;
+    width: 200px;
     height: 1000px;
 }
 .vertical{
@@ -498,28 +498,33 @@ font-size: 20px;
 }
 .vertical{
     margin-top: -500px;
-    margin-bottom: 50px;
 }
 .v-1{
     width: 350px;
-    height: 150px;
+    height: 100px;
+    background-color: white;
 }
 .v-2{
     width: 350px;
-    height: 150px;
+    height: 100px;
+    background-color: white;
+
 }
 .v-3{
     width: 350px;
-    height: 150px;
+    height: 100px;
+    background-color: white;
+
 }
 .v-4{
     width: 350px;
-    height: 150px;
+    height: 100px;
+    background-color: white;
+
 }
 .vh{
     font-size:25px;
     margin-left: 80px;
-    margin-top: -50px;
 }
 .vp{
     margin-left: 80px;
@@ -743,10 +748,45 @@ font-size: 20px;
         font-size: 25px
    }
    .v-img{
-    height: 600px;
-    width: 1000px;
+    height: 700px;
+    width: 1100px;
     margin-left: 200px;
     margin-top: -50px;
+}
+.vertical{
+    margin-top: -600px;
+}
+.v-1{
+    width: 450px;
+    height: 100px;
+}
+.v-2{
+    width: 450px;
+    height: 100px;
+    background-color: white;
+
+}
+.v-3{
+    width: 450px;
+    height: 100px;
+    background-color: white;
+
+}
+.v-4{
+    width: 450px;
+    height: 100px;
+    background-color: white;
+
+}
+.vh{
+    font-size:25px;
+    margin-left: 80px;
+}
+.vp{
+    margin-left: 80px;
+    margin-top: -10px;
+    font-size: 18px;
+    
 }
     
     
