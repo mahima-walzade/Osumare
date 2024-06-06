@@ -19,11 +19,12 @@
     display: flex;
 }
 .btn1{
-    width: 100px;
+    width: 130px;
     height: 30px;
+    margin-top: 30px;
     border-radius: 20px;
     background-color: white;
-    margin-right: 0px; 
+    margin-left: 80px; 
 }
 #text{
     text-align: center;
@@ -510,6 +511,10 @@
     html {
         font-size: 55%;
     }
+    .btn1{
+        margin-top: 30px;
+        margin-left: 480px; 
+    }
     .img img{
         margin-left: 220px;
         width: 400px;
@@ -619,6 +624,7 @@
     }
     .fream2{
         display:flex;
+        margin-top: 170px;
     }
     .f-5{
         width: 190px;
@@ -698,7 +704,7 @@
     }
     .btn2{
         margin-left: 300px;
-        margin-top: 20px;
+        margin-top: 190px;
     }
     .navi{
         font-size: 28px;
@@ -1051,6 +1057,10 @@
 
 
 @media screen and (min-width:1024px) {
+    .btn1{
+        margin-top: 30px;
+        margin-left: 680px; 
+    }
     .img img{
         margin-left: 320px;
         width: 500px;
