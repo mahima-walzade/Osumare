@@ -266,7 +266,7 @@
 }
 .v-img{
     background: url('images/Frame 892.png') no-repeat;
-    height: 400px;
+    height: 100px;
     width: 300px;
 }
 .vh{
@@ -285,7 +285,17 @@
 .vertical{
     margin-top: -250px;
 }
-
+.dri{
+    text-align: center;
+}
+.dri1{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -20px;
+}
+.dp{
+    margin-top: -10px;
+}
 
 @media screen and (min-width:768px) {
     html {
@@ -487,9 +497,9 @@
     }
     .navi2{
         margin-top: -10px;
-text-align: center;
-font-size: 20px;   
- }
+        text-align: center;
+        font-size: 20px;   
+    }
  .v-img{
     height: 600px;
     width: 650px;
@@ -502,25 +512,22 @@ font-size: 20px;
 .v-1{
     width: 350px;
     height: 100px;
-    background-color: white;
+    background-color: white;   
 }
 .v-2{
     width: 350px;
     height: 100px;
     background-color: white;
-
 }
 .v-3{
     width: 350px;
     height: 100px;
     background-color: white;
-
 }
 .v-4{
     width: 350px;
     height: 100px;
     background-color: white;
-
 }
 .vh{
     font-size:25px;
@@ -529,9 +536,30 @@ font-size: 20px;
 .vp{
     margin-left: 80px;
     margin-top: -10px;
-    font-size: 18px;
-    
+    font-size: 18px;   
 }
+.dri{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 120px;
+}
+.dri1{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.dh{
+    margin-left:320px;
+    font-size: 25px;
+    margin-top: -200px;
+}
+.dp{
+    font-size: 18px;
+    margin-left: 320px;
+    margin-top: -10px;
+}
+
+
     
      
 }
@@ -736,7 +764,7 @@ font-size: 20px;
     .btn2{            
         width: 250px;
         height: 50px;     
-        margin-left: 450px;
+        margin-left: 400px;
     }
     .navi{
         font-size: 36px;
@@ -748,14 +776,41 @@ font-size: 20px;
         font-size: 25px
    }
    .v-img{
+    margin-left: 200px;
+   }
+   .dri{
+    text-align: center;
+    font-size: 30px;
+}
+.dri1{
+    text-align: center;
+    font-size: 25px;
+}
+.dh{
+    margin-left:320px;
+    font-size: 30px;
+    margin-top: -200px;
+}
+.dp{
+    font-size: 23px;
+    margin-left: 320px;
+    margin-top: -10px;
+}
+
+
+
+   /* .v-img{
     height: 700px;
     width: 1100px;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: -50px;
 }
 .vertical{
     margin-top: -600px;
 }
+
+
+
 .v-1{
     width: 450px;
     height: 100px;
@@ -788,7 +843,7 @@ font-size: 20px;
     font-size: 18px;
     
 }
-    
+     */
     
 
 }
