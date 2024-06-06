@@ -412,7 +412,7 @@
     margin-left: 20px;
     margin-top: 50px;
 }
-.vp{
+.p{
     font-size: 17px;
     margin-top: 20px;
 }
@@ -420,6 +420,88 @@
     margin-left: 130px;
     width: 80px;
     height: 50px;
+}
+.question{
+    text-align: center;
+    width: 320px;
+    background-color: aliceblue;
+}
+.fa-angle-down{
+    margin-left: 210px;
+}
+.fa-angle-up{
+    margin-left: 210px;
+}
+ .form{
+    background-color: antiquewhite;
+    margin-left: 10px;
+}
+.form h1{
+    text-align: center;
+    font-size: 25px;
+}
+.form h6{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -5px;
+}
+.mainform{
+    background-color: azure;
+    width: 350px;
+    height: 250px;
+    margin-left: 8px;
+} 
+.msg{
+    width: 150px;
+    height: 100px;
+    margin-left: 10px;
+}
+.btn5{
+    background-color: rgb(36, 171, 224);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    border: skyblue; 
+    margin-left: 70px;
+    margin-top: -50px;
+}
+.footer{
+    background-color: rgb(173, 214, 240);
+    margin-top: 20px;
+}
+.left img{
+    margin-top: 10px;
+}
+.left p{
+    font-size: 15px;
+    margin-top: -5px;
+}
+.left h2{
+    margin-top: -10px;
+}
+.left p{
+    margin-top: -10px;
+}
+.fa-phone{
+    margin-top: 10px
+}
+.middle{
+    margin-left: 10px;
+}
+.right{
+    margin-left: 200px;
+    margin-top: -260px;
+    margin:5px;
+}
+.fa-brands {
+    font-size: 20px;
+}
+.foot{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 200px;
+    color: black;
 }
 
 
@@ -830,7 +912,7 @@
     margin-top: 50px;
     font-size: 24px;
 }
-.vp{
+.p{
     margin-left: 350px;
     font-size: 20px;
     margin-top: 20px;
@@ -839,6 +921,127 @@
     margin-left: 350px;
     margin-top: 20px;
 }
+.question{
+    height: 400px;
+    width:720px;
+}
+.question h1{
+    font-size: 28px;
+}
+.question h6{
+    font-size: 17px;
+    margin-top: -10px;
+}
+ .ques h3 {
+   background-color: white;
+   border: 10px;
+   width: 350px;
+   height: 100px;
+   font-size: 15px;
+   margin-left: 200px;
+} 
+.ques p {
+    background-color: white;
+    border: 10px;
+    width: 500px;
+    height: 150px;
+    font-size: 18px;
+    margin-left: 150px;
+    margin-top: -10px;
+ } 
+ .form h1{
+        font-size: 30px;
+        margin-top: 10px;
+}
+.form h6{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -5px;
+}
+
+.mainform{
+    width: 450px;
+    font-weight: bolder;
+    height: 300px;
+    margin-left: 98px;
+    font-size: 20px;
+} 
+.btn5{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.footer{
+    width: 750px;
+    height: 500px;
+    background-color: rgb(173, 214, 240);
+    margin-top: 40px;
+}
+.left{
+    width: 250px;
+    height: 500px;
+}
+.middle{
+    width: 250px;
+    height: 500px;
+}
+.right{
+    width: 250px;
+    height: 500px;
+}
+.left p{
+    font-size: 18px;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+.left h2{
+    margin-top: -15px;
+    margin-left: 5px;
+    font-size:20px ;
+}
+.left p{
+    margin-top: -10px;
+    font-size: 18px;
+}
+.fp{
+    font-size: 20px;
+    margin-left: 40px;
+}
+.fa-phone{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.fa-envelope{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.middle{
+    margin-left: 300px;
+    margin-top: -450px;
+}
+.middle h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.middle p{
+    font-size: 20px;
+}
+.right{
+    margin-left: 450px;
+    margin-top: -500px;
+}
+.right h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fa-brands {
+    font-size: 30px;
+    margin: 10px;
+}
+.foot{
+    text-align: center;
+    margin-top: -70px;
+}
+
 
     
      
@@ -1260,7 +1463,7 @@
 .vd-1 h6{  
     font-size: 28px;
 }
-.vp{
+.p{
     margin-left: 350px;
     font-size: 26px;
     margin-top: 20px;
@@ -1269,7 +1472,102 @@
     margin-left: 450px;
     margin-top: 20px;
 }
-
+.question{
+    height: 500px;
+    width: 980px;
+}
+.question h1{
+    font-size: 32px;
+}
+.question h6{
+    font-size: 20px;
+    margin-top: -10px;
+}
+ .ques h3 {
+   border: 10px;
+   width: 500px;
+   height: 150px;
+   font-size: 20px;
+   margin-left: 250px;
+} 
+.ques p {
+    width: 500px;
+    height: 170px;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: -10px;
+ } 
+ .mainform{   
+    margin-left: 250px; 
+} 
+.footer{
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(173, 214, 240);
+    margin-top: 40px;
+}
+.left{
+    width: 330px;
+    }
+.middle{
+    width: 330px;
+}
+.right{
+    width: 330px;
+}
+.left p{
+    font-size: 18px;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+.left h2{
+    margin-top: -15px;
+    margin-left: 5px;
+    font-size:20px ;
+}
+.left p{
+    margin-top: -10px;
+    font-size: 18px;
+}
+.fp{
+    font-size: 20px;
+    margin-left: 60px;
+}
+.fa-phone{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.fa-envelope{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.middle{
+    margin-left: 400px;
+    margin-top: -450px;
+}
+.middle h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.middle p{
+    font-size: 20px;
+}
+.right{
+    margin-left: 550px;
+    margin-top: -500px;
+}
+.right h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fa-brands {
+    font-size: 40px;
+    margin: 10px;
+}
+.foot{
+    text-align: center;
+    margin-top: -70px;
+}
    
 
 }
