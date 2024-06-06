@@ -412,8 +412,14 @@
     margin-left: 20px;
     margin-top: 50px;
 }
-video block p{
-    
+.vp{
+    font-size: 17px;
+    margin-top: 20px;
+}
+.arrow{
+    margin-left: 130px;
+    width: 80px;
+    height: 50px;
 }
 
 
@@ -824,6 +830,16 @@ video block p{
     margin-top: 50px;
     font-size: 24px;
 }
+.vp{
+    margin-left: 350px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.arrow{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
     
      
 }
@@ -1243,6 +1259,15 @@ video block p{
 }
 .vd-1 h6{  
     font-size: 28px;
+}
+.vp{
+    margin-left: 350px;
+    font-size: 26px;
+    margin-top: 20px;
+}
+.arrow{
+    margin-left: 450px;
+    margin-top: 20px;
 }
 
    
