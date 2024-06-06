@@ -23,8 +23,7 @@
     height: 30px;
     border-radius: 20px;
     background-color: white;
-   
-    /* margin-left: 0px; */
+    margin-right: 0px; 
 }
 #text{
     text-align: center;
@@ -32,7 +31,8 @@
     /* margin-left: 50px; */
 }
 #text h6{
-  font-size: 25px;  
+  font-size: 25px; 
+  margin-left: 0px; 
 }
 #text strong{
     font-size: 27px;
@@ -40,7 +40,7 @@
     color:  rgb(36, 171, 224);;
 }
 #text p{
-    margin-top: 10px
+    margin-top: -40px;
 }
 .start{
     background-color: rgb(36, 171, 224);
@@ -56,15 +56,699 @@
     height: 200px;
 /* margin-left: 35%;} */
 }
+#real estate{
+    text-align: center;   
+}
+.rel img{
+    width: 300px;
+    height: 200px;
+}
+.rel p{
+    margin-top: -10px;
+    font-size: 12px;
+}
+.btn{
+    background-color: rgb(36, 171, 224);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    border: skyblue; 
+    margin-left: 50px;
+}
+#block{
+    background-color:beige;
+}
+.bh{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.bp{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -10px;
+}
+ .fream1{
+    display: flex;
+}
+.f-1{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-1 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.f-2{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-2 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.f-3{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-3 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.f-4{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-4 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.fream2{
+    display: flex;
+}
+.f-5{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-5 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.f-6{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-6 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.f-7{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-7 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+}
+.f-8{
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    margin: 2,2,2,2;
+}
+.f-8 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;    
+}
+.fh{
+    font-size: 15px;
+    text-align: center;
+}
+.fp{
+    font-size: 12px;
+} 
+.btn2{
+    background-color: rgb(36, 171, 224);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    border: skyblue; 
+    margin-left: 70px;
+    margin-top: 90px;
+}
+.navi{
+    font-size: 16px;
+}
+.navi2{
+    margin-top: -10px;
+    margin-left: 30px;
+}
+.v-img{
+    background: url('images/Frame 892.png') no-repeat;
+    height: 400px;
+    width: 300px;
+}
+.vh{
+    font-size: 15px;
+    margin-left: 80px;
+    margin-top: -50px;
+}
+.vp{
+    margin-left: 80px;
+    margin-top: -10px;
+}
+.v-img{
+    width: 300px;
+    height: 1000px;
+}
+.vertical{
+    margin-top: -250px;
+}
+
+
 @media screen and (min-width:768px) {
     html {
         font-size: 55%;
     }
+    .img img{
+        margin-left: 220px;
+        width: 400px;
+        height: 250px;
+    }
+    .RE{
+        text-align: center;
+        font-size: 23px;        
+       
+    }
+    .rel img{
+        width: 300px;
+        height: 200px;
+        margin-left: 30px;
+    }
+    .rel h3{
+        margin-left: 340px;
+        margin-top: -180px;
+        font-size: 20px;
+    }
+    .rel p{
+        margin-left: 350px;
+        margin-top: -10px;
+        font-size: 15px;
+    }
+    .btn{
+        margin-left: 350px;
+    }
+    .fream1{
+        display:flex;
+    }
+    .f-1{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-1 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-2{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-2 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-3{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-3 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-4{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-4 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .fream2{
+        display:flex;
+    }
+    .f-5{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-5 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-6{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-6 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-7{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-7 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-8{
+        width: 190px;
+        height: 170px;
+        margin:5,5,5,5;
+    }
+    .f-8 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .btn2{
+        margin-left: 300px;
+        margin-top: 20px;
+    }
+    .navi{
+        font-size: 28px;
+        text-align: center;
+    }
+    .navi2{
+        margin-top: -10px;
+text-align: center;
+font-size: 20px;   
+ }
+ .v-img{
+    height: 600px;
+    width: 650px;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+.vertical{
+    margin-top: -500px;
+    margin-bottom: 50px;
+}
+.v-1{
+    width: 350px;
+    height: 150px;
+}
+.v-2{
+    width: 350px;
+    height: 150px;
+}
+.v-3{
+    width: 350px;
+    height: 150px;
+}
+.v-4{
+    width: 350px;
+    height: 150px;
+}
+.vh{
+    font-size:25px;
+    margin-left: 80px;
+    margin-top: -50px;
+}
+.vp{
+    margin-left: 80px;
+    margin-top: -10px;
+    font-size: 18px;
+    
+}
+    
+     
 }
 
 
 
 
 @media screen and (min-width:1024px) {
+    .img img{
+        margin-left: 320px;
+        width: 500px;
+        height: 350px;
+    }
+    .RE{      
+        font-size: 27px;     
+       
+    }
+    .rel img{
+        width: 400px;
+        height: 300px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .rel h3{
+        margin-left: 440px;
+        margin-top: -280px;
+        font-size: 26px;
+    }
+    .rel p{
+        margin-left: 440px;
+        margin-top: -10px;
+        font-size: 22px;
+    }
+    .btn{            
+        width: 250px;
+        height: 50px;     
+        margin-left: 450px;
+    }
+    .bh{
+        text-align: center;
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    .fream1{
+        display:flex;
+    }
+    .f-1{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-1 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-2{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-2 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-3{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-3 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-4{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-4 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .fream2{
+        display:flex;
+    }
+    .f-5{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-5 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-6{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-6 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-7{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-7 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .f-8{
+        width: 250px;
+        height: 150px;
+        margin:5,5,5,5;
+    }
+    .f-8 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 80px;  
+        margin-top: 10px;  
+    }
+    .fh{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fp{
+        font-size: 12px;
+    }
+    .btn2{            
+        width: 250px;
+        height: 50px;     
+        margin-left: 450px;
+    }
+    .navi{
+        font-size: 36px;
+        text-align: center;
+    }
+    .navi2{
+        margin-top: -10px;
+        text-align: center;
+        font-size: 25px
+   }
+   .v-img{
+    height: 600px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+    
+    
 
 }
