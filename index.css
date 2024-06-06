@@ -296,6 +296,28 @@
 .dp{
     margin-top: -10px;
 }
+.btn3{
+    background-color: rgb(36, 171, 224);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    border: skyblue; 
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.drh{
+    text-align: center;
+    font-size: 25px;
+}
+.b-1 img{
+    width: 70px;
+    height: 70px;
+    margin-left: 60px;
+}
+.b-1 h4{
+    
+}
 
 @media screen and (min-width:768px) {
     html {
@@ -551,12 +573,19 @@
 .dh{
     margin-left:320px;
     font-size: 25px;
-    margin-top: -200px;
+    margin-top: -240px;
 }
 .dp{
-    font-size: 18px;
+    font-size: 20px;
     margin-left: 320px;
     margin-top: -10px;
+}
+.btn3{
+    margin-left: 320px;
+}
+.drh{
+    font-size: 28px;
+    margin-top: 20px;
 }
 
 
@@ -789,12 +818,21 @@
 .dh{
     margin-left:320px;
     font-size: 30px;
-    margin-top: -200px;
+    margin-top: -250px;
 }
 .dp{
-    font-size: 23px;
+    font-size: 25px;
     margin-left: 320px;
     margin-top: -10px;
+}
+.btn3{            
+    width: 250px;
+    height: 50px;     
+    margin-left: 310px;
+}
+.drh{
+    font-size: 32px;
+    margin-top: 20px;
 }
 
 
